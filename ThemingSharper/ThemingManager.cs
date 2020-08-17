@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ThemingSharper
 {
-    public class Class1
+    public class ThemingManager
     {
+
+        public void TesttingOne()
+        {
+
+        }
     }
 }
