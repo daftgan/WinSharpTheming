@@ -34,6 +34,7 @@ namespace AdvancedThemeManager.ThemeManager
             InitializeComponent();
             _types = typesToReference;
             MouseHookComponent.MouseClick += MouseHookComponent_MouseClick;
+
         }
 
         /// <summary>
