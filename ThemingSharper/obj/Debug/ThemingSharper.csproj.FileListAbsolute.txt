@@ -1,0 +1,9 @@
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\obj\Debug\ThemingSharper.csprojAssemblyReference.cache
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\obj\Debug\AdvancedThemeManager.ThemeManager.DlgControlReferencer.resources
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\obj\Debug\AdvancedThemeManager.ThemeManager.Selection.SelectionForm.resources
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\obj\Debug\ThemingSharper.csproj.GenerateResource.cache
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\obj\Debug\ThemingSharper.csproj.CoreCompileInputs.cache
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\bin\Debug\ThemingSharper.dll
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\bin\Debug\ThemingSharper.pdb
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\obj\Debug\ThemingSharper.dll
+C:\Users\ddodre\Source\Repos\WinSharp\ThemingSharper\obj\Debug\ThemingSharper.pdb
